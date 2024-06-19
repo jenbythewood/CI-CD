@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "cicd": "cicd-40279",
+    "default": "cicd-40279"
+  },
+  "targets": {}
+}
